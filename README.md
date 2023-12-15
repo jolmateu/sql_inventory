@@ -1,17 +1,17 @@
 # Overview
-This is an example of an application developed in python that allows you to add, delete, update or display an inventory, it has a selection menu to perform each function and use dictionary to temporarily store inventory information.
+This is an example of an application developed in python and a Database in SQL that allows you to add, delete or sell an item in a inventory, it has a selection menu to perform each function and use SQL database to store inventory information.
 
 You can see the example demo video
-[Software Demo Video](https://youtu.be/5Zsjh6zh6D8)
+[Software Demo Video](https://youtu.be/KwCSWWTRXNI)
 
 # Development Environment
 
 * Python
+* SQLite
 * Visual Studio Code
 
 # Useful Websites
 
-* [The Python Tutorial](https://docs.python.org/3/tutorial/)
-* [mclibre.org](https://www.mclibre.org/consultar/python/)
-* [Codecademy](https://www.codecademy.com/learn/learn-python-3)
-* [Dive Into Python 3](https://diveintopython3.net/)
+* [SQLite Tutorial](https://www.sqlitetutorial.net/)
+* [The Python Tutorial - sqlite3](https://docs.python.org/3.8/library/sqlite3.html)
+* [tutorialspoint](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
